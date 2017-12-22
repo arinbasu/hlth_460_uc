@@ -1,0 +1,15 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Course site"
+[permalinks]
+    post = "/:year/:month/:day/:slug"
+
+theme = "blackburn"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$",
+               "_files$", "_cache$"]
+
+uglyURLs = true
+
+[params]
+    author = "Arindam Basu"
+    dateFormat = "2017/01/02"
