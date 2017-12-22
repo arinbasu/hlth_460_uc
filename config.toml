@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://hlth460uc.netlify.com/"
 languageCode = "en-us"
 title = "Course site"
 [permalinks]
@@ -12,4 +12,4 @@ uglyURLs = true
 
 [params]
     author = "Arindam Basu"
-    dateFormat = "2017/01/02"
+    dateFormat = "2017-01-02"
