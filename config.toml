@@ -1,6 +1,6 @@
 baseURL = "https://hlth460uc.netlify.com/"
 languageCode = "en-us"
-title = "Course site"
+title = "Critical appraisal for health research"
 [permalinks]
     post = "/:year/:month/:day/:slug"
 

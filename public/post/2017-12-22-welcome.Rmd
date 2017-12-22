@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: "Welcome to the course""
 author: Arindam Basu
 date: '2017-12-22'
 slug: welcome
@@ -10,7 +10,7 @@ tags:
 draft: false  
 ---
 
-## Welcome to the course.
+## Welcome to the course
 The purpose of this course is to cover the following topics:
 
 1. How to critically read and write a research project
@@ -24,9 +24,19 @@ The purpose of this course is to cover the following topics:
 The format of the class will be in the form of discussions and hands on learning. Bring your notebook computer to the class (a tablet or phone will not work in the class). Also before coming to the class, please read the following books and load the following software packages on your computer. If you are not familiar with how to load software on your computer or if you do not have admin access to your computer, please seek help. We will also spend some time in the class to go over as to how to load these packages on your computer and use them. 
 
 ## Required textbook & software for the class:
-Critical Thinking by Tom Chatfield (Link here) (Read the first six chapters)
-R for statistical computing
-Rstudio
-Within R, you need to install tidyverse and lavaan
-Get a free account in [Authorea](https://www.authorea.com) & share your account name or email address (use your university provided address) with me. 
+- Critical Thinking by Tom Chatfield (Link here) (Read the first six chapters)
+- [R for statistical computing](http://www.r-project.org)
+- [Rstudio](http://www.rstudio.com)
+- Within R, you need to install tidyverse and lavaan
+- Get a free account in [Authorea](https://www.authorea.com) & share your account name or email address (use your university provided address) with me. 
+
+## How to install R & Rstudio
+
+Install R from the R website and Rstudio from the Rstudio website by first downloading the installer files for your respective operating systems. Then once you are within Rstudio, open an R console and run the following code by copying and pasting from here:
+
+```
+install.packages("tidyverse")
+install.packages("lavaan")
+```
+
 
